@@ -1,0 +1,3 @@
+- install dependencies
+- run `pnpm lint`
+- open `HelloWorld.vue`
